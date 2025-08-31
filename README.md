@@ -62,7 +62,7 @@ _"YamYam Go aims to revolutionize food ordering by providing a seamless, fast, a
 ---
 ## Detailed Use Cases
 
-### [[User Registration & Authentication]]
+### [User Registration & Authentication](assets/docs/User-Registration-Authentication.md)
 - Enable users to create accounts and log in securely.  
 - Validate and manage sessions.  
 - Provide profile editing and password recovery.
